@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" filepath="$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" filepath="$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" filepath="$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING/SORTING.iml" filepath="$PROJECT_DIR$/SORTING/SORTING.iml" />
+    </modules>
+  </component>
+</project>
