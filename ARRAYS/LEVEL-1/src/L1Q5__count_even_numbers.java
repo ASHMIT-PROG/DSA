@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class L1Q5__count_even_numbers {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6};
