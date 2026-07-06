@@ -26,7 +26,7 @@ public class count_occurances_ii_9 {
                 maxcount = count;
                 repeated_no = arr[i];
 
-            }
+            }   
         }
         System.out.println("maxcount"+maxcount);
         System.out.println("repeated number"+repeated_no);
