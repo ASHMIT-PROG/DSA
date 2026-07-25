@@ -7,11 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" filepath="$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" />
       <module fileurl="file://$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" filepath="$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" />
       <module fileurl="file://$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" filepath="$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CF/CF.iml" filepath="$PROJECT_DIR$/CF/CF.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/LC-QUESTIONS/LC-LEVEL-1/LC-LEVEL-1.iml" filepath="$PROJECT_DIR$/ARRAYS/LC-QUESTIONS/LC-LEVEL-1/LC-LEVEL-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/LEVEL-1/LEVEL-1.iml" filepath="$PROJECT_DIR$/ARRAYS/LEVEL-1/LEVEL-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" filepath="$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CF/LIST/LIST.iml" filepath="$PROJECT_DIR$/CF/LIST/LIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERNS_I/PATTERNS_I.iml" filepath="$PROJECT_DIR$/PATTERNS_I/PATTERNS_I.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRACTICE/PRACTICE.iml" filepath="$PROJECT_DIR$/PRACTICE/PRACTICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CF/QUEUE/QUEUE.iml" filepath="$PROJECT_DIR$/CF/QUEUE/QUEUE.iml" />
       <module fileurl="file://$PROJECT_DIR$/SORTING/SORTING.iml" filepath="$PROJECT_DIR$/SORTING/SORTING.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/STRIVER EASY/STRIVER EASY.iml" filepath="$PROJECT_DIR$/ARRAYS/STRIVER EASY/STRIVER EASY.iml" />
     </modules>

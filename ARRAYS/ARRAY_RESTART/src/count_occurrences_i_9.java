@@ -30,6 +30,7 @@ public class count_occurrences_i_9 {
         int mostRepeated = arr[0];
 
         // Stores one other number having same maximum frequency
+        // iniitially we dont know  koi tie milega ya nahi
         int samfreq = -1;
 
         // Pick every element
@@ -48,8 +49,8 @@ public class count_occurrences_i_9 {
 
             // CASE 1:
             // Higher frequency found
-            if (count > maxCount) {
-
+            if (count > maxCount) {// kya abhi wali freq sabse badi hai
+                // shuru me count =0 toh agar array me
                 maxCount = count;
                 mostRepeated = arr[i];
 
