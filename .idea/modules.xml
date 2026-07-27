@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC_MATHS/BASIC_MATHS.iml" filepath="$PROJECT_DIR$/BASIC_MATHS/BASIC_MATHS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" filepath="$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" />
       <module fileurl="file://$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" filepath="$PROJECT_DIR$/SORTING/BUBBLE SORT/BUBBLE SORT.iml" />
       <module fileurl="file://$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" filepath="$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" />
