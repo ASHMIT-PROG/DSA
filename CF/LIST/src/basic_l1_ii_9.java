@@ -25,10 +25,5 @@ public class basic_l1_ii_9 {
 
         }
         System.out.println(curr_element);
-
-
-
-
-
     }
 }
