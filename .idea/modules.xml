@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/DSA_SHEET/ARRAY_BASICS_1/ARRAY_BASICS_1.iml" filepath="$PROJECT_DIR$/ARRAYS/DSA_SHEET/ARRAY_BASICS_1/ARRAY_BASICS_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" />
       <module fileurl="file://$PROJECT_DIR$/BASIC_MATHS/BASIC_MATHS.iml" filepath="$PROJECT_DIR$/BASIC_MATHS/BASIC_MATHS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" filepath="$PROJECT_DIR$/BINARY_SEARCH/BINARY_SEARCH.iml" />
@@ -10,12 +11,15 @@
       <module fileurl="file://$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" filepath="$PROJECT_DIR$/FUNDAMENTALS/Boolean/Boolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/CF/CF.iml" filepath="$PROJECT_DIR$/CF/CF.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HASHING/HASHING.iml" filepath="$PROJECT_DIR$/HASHING/HASHING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/DSA_SHEET/DSA_SHEET.iml" filepath="$PROJECT_DIR$/ARRAYS/DSA_SHEET/DSA_SHEET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HASHING/HASHMAPS/HASHMAPS.iml" filepath="$PROJECT_DIR$/HASHING/HASHMAPS/HASHMAPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_COLLECTION/JAVA_COLLECTION.iml" filepath="$PROJECT_DIR$/JAVA_COLLECTION/JAVA_COLLECTION.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/LC-QUESTIONS/LC-LEVEL-1/LC-LEVEL-1.iml" filepath="$PROJECT_DIR$/ARRAYS/LC-QUESTIONS/LC-LEVEL-1/LC-LEVEL-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/LEVEL-1/LEVEL-1.iml" filepath="$PROJECT_DIR$/ARRAYS/LEVEL-1/LEVEL-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" filepath="$PROJECT_DIR$/LINEAR SEARCH/LINEAR SEARCH.iml" />
       <module fileurl="file://$PROJECT_DIR$/CF/LIST/LIST.iml" filepath="$PROJECT_DIR$/CF/LIST/LIST.iml" />
       <module fileurl="file://$PROJECT_DIR$/LOGICS/LOGICS.iml" filepath="$PROJECT_DIR$/LOGICS/LOGICS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/METHODS_BASIC/METHODS_BASIC.iml" filepath="$PROJECT_DIR$/METHODS_BASIC/METHODS_BASIC.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERNS_I/PATTERNS_I.iml" filepath="$PROJECT_DIR$/PATTERNS_I/PATTERNS_I.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRACTICE/PRACTICE.iml" filepath="$PROJECT_DIR$/PRACTICE/PRACTICE.iml" />
       <module fileurl="file://$PROJECT_DIR$/CF/QUEUE/QUEUE.iml" filepath="$PROJECT_DIR$/CF/QUEUE/QUEUE.iml" />
