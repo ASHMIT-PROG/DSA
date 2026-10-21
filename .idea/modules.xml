@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/50_LOGIC/50_LOGIC.iml" filepath="$PROJECT_DIR$/50_LOGIC/50_LOGIC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/DSA_SHEET/ARRAY_BASICS_1/ARRAY_BASICS_1.iml" filepath="$PROJECT_DIR$/ARRAYS/DSA_SHEET/ARRAY_BASICS_1/ARRAY_BASICS_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAY_RESTART/ARRAY_RESTART.iml" />
