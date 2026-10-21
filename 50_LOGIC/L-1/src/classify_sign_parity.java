@@ -5,7 +5,8 @@ public class classify_sign_parity {
     public static String classify(int N) {
         if (N == 0) {
             return "Zero";
-        } else if (N > 0) {
+        }
+        else if (N > 0) {
             if (N % 2 == 0) {
                 return "Positive Even";
             } else {
